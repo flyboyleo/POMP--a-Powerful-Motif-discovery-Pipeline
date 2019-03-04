@@ -1,4 +1,4 @@
-# Motif-discovery-pipeline
+# POMP--a-Powerful-Motif-discovery-Pipeline
 
 ## This pipeline contains two folders as two parts: 
 
