@@ -17,10 +17,10 @@ k=1
 
  
  echo "awk -F \"\\t\" 'NR==FNR{b=NF-1;first = \$1;\$1 = \"\"; a[first]=\$0;}NR>FNR{if(\$1 in a){print \$0 \"\t\" a[\$1]}else{printf \$0\"\t\";{for(c=0;c<b;c++){printf \"0\t\"};printf \"\n\"} }}'  $i  tmp$((n++)).out >tmp$((k++)).out" >>test1
- 
- sh test1
 
  done
+
+sh test1
 cd ..
 
 done
