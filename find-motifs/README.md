@@ -1,6 +1,6 @@
 ## Installation:
 1. Make sure `ChIP_pip_fromPeakfile.sh` and `ChIP_pip_fromAnnofile.sh` are executable. i.e. in *nix: `chmod 775 *.sh`
-2. Install HOMER: http://homer.ucsd.edu/homer/introduction/install.html
+2. Install HOMER: http://homer.ucsd.edu/homer/introduction/install.html as POMP is based on HOMER.
 3. Install the relevant genome to HOMER. e.g. if we wanted to use `hg19`, then we navigate to the directory where HOMER is installed, then run
   `perl configureHomer.pl -install hg19`
 
