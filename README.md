@@ -4,7 +4,7 @@ POMP is a POwerful Motif Pipeline which allows users to discover hundreds of mot
 
 ## This pipeline contains two folders as two parts: 
 
-### Part one: Modified HOMER pipeline  (./find-motifs)
+### Part one: POMP pipeline (./find-motifs)
 
 ### Part two: RandomForest implementations in the paper  (./RF_implementation)
 
