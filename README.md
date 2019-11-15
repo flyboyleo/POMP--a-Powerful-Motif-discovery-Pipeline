@@ -1,4 +1,4 @@
-# POMP--a-Powerful-Motif-discovery-Pipeline
+# POMP: a-Powerful-Motif-discovery-Pipeline
 
 POMP is a POwerful Motif Pipeline which allows users to discover hundreds of motifs (such as using ENCODE motif database) with only one single run.
 
